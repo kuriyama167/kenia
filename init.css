@@ -1,0 +1,14 @@
+body {
+    background-image: url("images/van.gif");
+    background-color: aquamarine;
+    padding: 0%;
+    text-align: center;
+}
+
+img {
+    display: block;
+    width: 20%;
+    margin: 21rem auto;
+    border: 6px solid white;
+    border-radius: 10px;
+}
